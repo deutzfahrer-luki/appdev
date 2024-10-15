@@ -1,0 +1,7 @@
+{
+  "name": "halloworld",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
